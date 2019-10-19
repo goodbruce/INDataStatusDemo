@@ -89,39 +89,41 @@ statusItem.btnTitle = @"Start Browsing";
 
 * 默认无数据
 
-![image](https://github.com/goodbruce/INDataStatusDemo/blob/master/temp/b0d2a8a21e1ae193856830dd0a4d0e7c-9.png)
+http://sphoto.laileshuo.com/b0d2a8a21e1ae193856830dd0a4d0e7c-3.png
+
+![image](http://sphoto.laileshuo.com/b0d2a8a21e1ae193856830dd0a4d0e7c-9.png?imageView2/2/w/400)
 
 * 网络请求异常
 
-![image](https://github.com/goodbruce/INDataStatusDemo/blob/master/temp/b0d2a8a21e1ae193856830dd0a4d0e7c-1.png)
+![image](http://sphoto.laileshuo.com/b0d2a8a21e1ae193856830dd0a4d0e7c-1.png?imageView2/2/w/400)
 
 * Facy
 
-![image](https://github.com/goodbruce/INDataStatusDemo/blob/master/temp/b0d2a8a21e1ae193856830dd0a4d0e7c-5.png)
+![image](http://sphoto.laileshuo.com/b0d2a8a21e1ae193856830dd0a4d0e7c-5.png?imageView2/2/w/400)
 
 * airbnb
 
-![image](https://github.com/goodbruce/INDataStatusDemo/blob/master/temp/b0d2a8a21e1ae193856830dd0a4d0e7c-8.png)
+![image](http://sphoto.laileshuo.com/b0d2a8a21e1ae193856830dd0a4d0e7c-8.png?imageView2/2/w/400)
 
 * Dropbox
 
-![image](https://github.com/goodbruce/INDataStatusDemo/blob/master/temp/b0d2a8a21e1ae193856830dd0a4d0e7c-4.png)
+![image](http://sphoto.laileshuo.com/b0d2a8a21e1ae193856830dd0a4d0e7c-4.png?imageView2/2/w/400)
 
 * instagram
 
-![image](https://github.com/goodbruce/INDataStatusDemo/blob/master/temp/b0d2a8a21e1ae193856830dd0a4d0e7c-7.png)
+![image](http://sphoto.laileshuo.com/b0d2a8a21e1ae193856830dd0a4d0e7c-7.png?imageView2/2/w/400)
 
 * qq
 
-![image](https://github.com/goodbruce/INDataStatusDemo/blob/master/temp/b0d2a8a21e1ae193856830dd0a4d0e7c-3.png)
+![image](http://sphoto.laileshuo.com/b0d2a8a21e1ae193856830dd0a4d0e7c-3.png?imageView2/2/w/400)
 
 * yy
 
-![image](https://github.com/goodbruce/INDataStatusDemo/blob/master/temp/b0d2a8a21e1ae193856830dd0a4d0e7c-10.png)
+![image](http://sphoto.laileshuo.com/b0d2a8a21e1ae193856830dd0a4d0e7c-10.png?imageView2/2/w/400)
 
 * jd
 
-![image](https://github.com/goodbruce/INDataStatusDemo/blob/master/temp/b0d2a8a21e1ae193856830dd0a4d0e7c-6.png)
+![image](http://sphoto.laileshuo.com/b0d2a8a21e1ae193856830dd0a4d0e7c-6.png?imageView2/2/w/400)
 
 
 谢谢您的阅读，希望本站及文档能带给你帮助，给你带来简洁明了的阅读体验。谢谢。
